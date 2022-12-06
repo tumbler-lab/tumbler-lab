@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tumbler-lab
 - 👀 I’m interested in natural language processing !
-- 🌱 I’m currently learning Vue.js and Kotlin !
+<!-- - 🌱 I’m currently learning Vue.js and Kotlin ! -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
